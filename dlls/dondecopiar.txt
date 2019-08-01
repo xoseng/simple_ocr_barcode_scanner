@@ -1,0 +1,10 @@
+C:\Python27\DLLs
+
+Para la de numpy errores:
+
+Problem solved. If you're running 32 bit python and numpy, you should be able to find this specific DLL at:
+
+C:\Python27\Lib\site-packages\numpy\.libs
+Copy and paste this into:
+
+C:\Python27\DLLs
