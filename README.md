@@ -1,7 +1,7 @@
 # simple_ocr_barcode_scanner
- Simple OCR Barcode Scanner GUI
+ Simple OCR Barcode Scanner GUI in Python2 with Tkinter.
 
--Created for Windows OS
+-Created for Windows OS.
 
 -Appended compiled program for x64.
 
